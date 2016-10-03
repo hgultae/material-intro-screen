@@ -1,7 +1,7 @@
 # Android Material Intro Screen
  [ ![Download](https://api.bintray.com/packages/tangoagency/maven/material-intro-screen/images/download.svg) ](https://bintray.com/tangoagency/maven/material-intro-screen/_latestVersion)
 [![Build Status](https://travis-ci.org/TangoAgency/material-intro-screen.svg?branch=master)](https://travis-ci.org/TangoAgency/material-intro-screen)
-[![](https://img.shields.io/badge/Android%20Arsenal-Material--Intro--Screen-green.svg?style=true)](https://android-arsenal.com/details/1/4368)
+[![Android Arsenal Material Intro Screen](https://img.shields.io/badge/Android%20Arsenal-Material--Intro--Screen-green.svg?style=true)](https://android-arsenal.com/details/1/4368)
 
 Material intro screen is inspired by [Material Intro] and developed with love from scratch. I decided to rewrite completely almost all features in order to make Android intro screen easy to use for everyone and extensible as possible.
 ## Features
